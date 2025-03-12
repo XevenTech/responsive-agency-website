@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/responsive-agency-website)
 ![GitHub stars](https://img.shields.io/github/stars/xeventech/responsive-agency-website?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/xeventech/responsive-agency-website?style=social)
-[![YouTube Video Views](https://img.shields.io/youtube/views/7dWL5GivD8k?style=social)](https://youtu.be/7dWL5GivD8k)
+[![YouTube Video Views](https://img.shields.io/youtube/views/7VXx3F5r-CU?style=social)](https://youtu.be/7VXx3F5r-CU)
 
 A fully responsive and awesome personal portfolio website, responsive for all devices.
 
@@ -46,7 +46,7 @@ git clone https://github.com/xeventech/responsive-agency-website.git
 
 ## Watch Video Tutorial
 
-[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/responsive-agency-website/thumbnail.png?raw=true "Play")](https://youtu.be/7dWL5GivD8k)
+[![Watch Video](https://github.com/XevenTech/projects_snapshots/blob/main/responsive-agency-website/thumbnail.png?raw=true "Play")](https://youtu.be/7VXx3F5r-CU)
 
 
 ## Thank you for reading, here's a cat:
