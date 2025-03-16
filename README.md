@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/xeventech/responsive-agency-website?style=social)
 [![YouTube Video Views](https://img.shields.io/youtube/views/1iji_2li5cU?style=social)](https://youtu.be/1iji_2li5cU)
 
-A fully responsive and awesome personal portfolio website, responsive for all devices.
+A fully responsive business agency website, responsive for all devices.
 
 ## Demo
 
